@@ -42,3 +42,5 @@ make run
 ```sh
 make install
 ```
+
+Дата последнего коммита: Apr 29 2024
