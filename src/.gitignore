@@ -1,0 +1,9 @@
+.xmake
+build
+.cache
+.vscode
+.nvim.lua
+.wakatime-project
+compile_commands.json
+install
+report
