@@ -19,7 +19,7 @@ app
 
 ## Зависимости
 xmake сам поставить должен но он собирает всегда из сорсов а это долго в случае с qt так что лучше отдельно поставить.
-- QT5SDK, QtGui, QtWidgets
+- Qt5Base, QtGui, QtWidgets
 - gtest
 - qcustomplot(через xmake)
 
