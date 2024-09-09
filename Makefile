@@ -43,7 +43,6 @@ test:
 
 install: build
 > mkdir -p $(INSTALL_DIR)
-> cp -r docs $(INSTALL_DIR)
 > xmake install -o $(INSTALL_DIR) -g bin
 
 run: install
