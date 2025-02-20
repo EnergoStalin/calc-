@@ -20,7 +20,7 @@ target('view')
 
   add_deps('controller')
 
-  add_frameworks('QtCore', 'QtGui', 'QtWidgets')
+  add_frameworks('QtCore', 'QtGui', 'QtWidgets', 'QtPrintSupport')
 
   add_packages('qcustomplot')
 target_end()
