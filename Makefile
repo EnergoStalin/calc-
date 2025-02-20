@@ -11,7 +11,6 @@ LINTFILES=$(shell find src -type f  -name '*.c' -or -name '*.cc' -or -name '*.h'
 all: build test gcov_report
 
 build:
-> xmake require
 > xmake config -m release
 > xmake build -g bin
 

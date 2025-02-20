@@ -1,6 +1,5 @@
 add_requires(
   's21rules',
-  'qtbased 6.8.0',
   'qcustomplot'
 )
 
