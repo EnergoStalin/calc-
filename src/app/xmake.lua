@@ -1,4 +1,5 @@
 add_requires(
+  'qtbased',
   's21rules'
 )
 
